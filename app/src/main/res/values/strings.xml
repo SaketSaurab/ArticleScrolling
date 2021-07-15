@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsArticleScrolling</string>
+    <string name="news_title_1">Engineer who ran Thop TV arrested</string>
+    <string name="news_1_detail">Maharashtra Cyber Cell has arrested Hyderabad-based engineer Satish Venkateshwarlu, who ran a mobile app called Thop TV, for allegedly streaming pirated content from various OTT platforms and satellite channels. The action was taken against the 28-year-old after a complaint by Viacom18 Media Private Limited and another broadcaster. "He primarily provided free content on Telegram," police said.</string>
+    <string name="news_title_2">Infosys plans to hire 35,000 freshers in FY 2021–22</string>
+    <string name="news_2_detail">Indian IT major Infosys plans to hire 35,000 college graduates for the financial year 2021–2022. "As the demand for digital talent explodes, rising attrition in the industry poses a near-term challenge," Infosys COO UB Pravin Rao said on Wednesday. "We plan to meet this demand by expanding our hiring program of college graduates for FY22 to 35,000 globally," he added.</string>
+    <string name="newstitle3">Reliance Industries in talks to buy Justdial for around ₹6,660 crore: Report</string>
+    <string name="news_3_detail">Mukesh Ambani–led Reliance Industries is in advanced negotiations to buy Justdial from its founding promoters in a deal worth ₹5,920–6,660 crore ($800–900 million), ET reported citing sources. CEO VSS Mani and family controls 35.5% of the company which is currently valued at ₹2,787.9 crore. The deal may help Reliance Retail to leverage the 25-year-old listings companys merchant database.</string>
+    <string name="news4title">Virgin Galactic plans to take tourists space every day: CEO</string>
+    <string name="news_4_detail"> Billionaire Richard Bransons Virgin Galactic is planning to take tourists to space at a rate of more than one flight a day. Its CEO Michael Colglazier told Financial Times that the company aims to offer 400 flights a year from every spaceport and find other spaceports around the world. Branson successfully flew to the edge of space on July 11.</string>
+</resources>
